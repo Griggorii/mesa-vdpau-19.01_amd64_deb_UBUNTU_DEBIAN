@@ -8,3 +8,10 @@ Replace mesa-vdpau-drivers , mesa-vdpau , mesa , libegl1-mesa-dev , mesa-common-
 Test terminal run command:
 
 $$ glxinfo
+_________________________________________________________________________
+
+Test benchmark 
+
+$$ DRI_PRIME=0 glxgears
+
+$$ DRI_PRIME=1 glxgears
