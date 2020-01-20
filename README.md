@@ -15,3 +15,7 @@ Test benchmark
 $$ DRI_PRIME=0 glxgears
 
 $$ DRI_PRIME=1 glxgears
+
+_________________________________________________________________________
+
+Wayland 4-8K video test
